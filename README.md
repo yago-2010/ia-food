@@ -6,7 +6,7 @@ Este repositório contém o site marketing da máquina iafood, que prepara comid
 
 ## Visualização do Site
 
-![Preview do site iafood]( index.html )
+![Preview do site iafood](index.html)
 
 ---
 
