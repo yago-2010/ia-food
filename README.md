@@ -1,6 +1,6 @@
 # CapFood - Máquina de Comida Instantânea
 
-Este repositório contém o site marketing da máquina iafood, que prepara comida instantânea de forma prática e rápida.
+Este repositório contém o site marketing da máquina CapFood, que prepara comida instantânea de forma prática e rápida.
 
 ---
 
@@ -32,11 +32,11 @@ Este repositório contém o site marketing da máquina iafood, que prepara comid
             --dark: #2D2D2D;
             --light: #F7F7F7;
                                                                  
-3. Aproveite o site marketing da iafood.
+3. Aproveite o site marketing da CapFood.
 
 ---
 
-## Sobre a iafood
+## Sobre a CapFood
 
 - Prepara pratos variados e nutritivos em poucos segundos  
 - Interface inteligente, fácil de usar  
