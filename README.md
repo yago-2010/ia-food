@@ -4,7 +4,7 @@ Este repositório contém o site marketing da máquina iafood, que prepara comid
 
 ---
 
-## Visualização do Site
+##  https://cdn.tailwindcss.com"></script>
 
 ![Preview do site iafood](iafood-preview.png)
 
